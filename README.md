@@ -7,6 +7,6 @@ It is free to install.
 Steps:
 
 
-Step 1: Install the file or git clone
+Step 1: Install the file or run `git clone https://github.com/rusluck/My-Guessing-Game`
 
 Step 2: Go to Debug/Guessing Game.exe
