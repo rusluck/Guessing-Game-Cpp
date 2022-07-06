@@ -7,7 +7,7 @@ It is free to install.
 Steps:
 
 
-Step 1: Install the file or run ``git clone https://github.com/rusluck/My-Guessing-Game``
+Step 1: Install the file or run ``git clone https://github.com/rusluck/Guessing-Game-Cpp``
 
 If you don't have git you can install it here
 https://git-scm.com/downloads
